@@ -67,3 +67,4 @@ Now, you have successfully onboarded AWS to Microsoft Defender for Cloud, you'll
 
 If you have existing AWS resources, then you'll be able to see recommendations associated with them.
 
+
